@@ -1,1043 +1,503 @@
 {
     "headers": [
-        "年底別\nEnd of Year",
+        "年底別",
         "項目別",
         "數據"
     ],
     "rows": [
         [
-            "",
-            "總計\nGrand Total",
-            "家數\nNo."
-        ],
-        [
-            "",
-            "無限\n公司\nUnlimited Company\n",
-            "家數\nNo."
-        ],
-        [
-            "",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
-            "家數\nNo."
-        ],
-        [
-            "",
-            "有限\n公司\nLimited Company\n",
-            "家數\nNo."
-        ],
-        [
-            "",
-            "股份\n有限公司\nCompany Limited by Shares",
-            "家數\nNo."
-        ],
-        [
-            "",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
-            "家數\nNo."
-        ],
-        [
-            "",
-            "",
-            "資本額\nCapital"
-        ],
-        [
-            "",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
-            "家數\nNo."
-        ],
-        [
-            "",
-            "",
-            "資本額\nCapital"
-        ],
-        [
-            "民國93年底                End of 2004",
-            "總計\nGrand Total",
-            "4360"
-        ],
-        [
-            "民國93年底                End of 2004",
-            "無限\n公司\nUnlimited Company\n",
-            "-"
-        ],
-        [
-            "民國93年底                End of 2004",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
-            "-"
-        ],
-        [
-            "民國93年底                End of 2004",
-            "有限\n公司\nLimited Company\n",
-            "3294"
-        ],
-        [
-            "民國93年底                End of 2004",
-            "股份\n有限公司\nCompany Limited by Shares",
-            "1063"
-        ],
-        [
-            "民國93年底                End of 2004",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
-            ""
-        ],
-        [
-            "民國93年底                End of 2004",
-            "",
-            ""
-        ],
-        [
-            "民國93年底                End of 2004",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
-            "5"
-        ],
-        [
-            "民國93年底                End of 2004",
-            "",
-            "-"
-        ],
-        [
-            "民國94年底                End of 2005",
-            "總計\nGrand Total",
-            "4410"
-        ],
-        [
-            "民國94年底                End of 2005",
-            "無限\n公司\nUnlimited Company\n",
-            "-"
-        ],
-        [
-            "民國94年底                End of 2005",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
-            "-"
-        ],
-        [
-            "民國94年底                End of 2005",
-            "有限\n公司\nLimited Company\n",
-            "3373"
-        ],
-        [
-            "民國94年底                End of 2005",
-            "股份\n有限公司\nCompany Limited by Shares",
-            "1033"
-        ],
-        [
-            "民國94年底                End of 2005",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
-            ""
-        ],
-        [
-            "民國94年底                End of 2005",
-            "",
-            ""
-        ],
-        [
-            "民國94年底                End of 2005",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
-            "4"
-        ],
-        [
-            "民國94年底                End of 2005",
-            "",
-            "-"
-        ],
-        [
-            "民國95年底                End of 2006",
-            "總計\nGrand Total",
-            "4497"
-        ],
-        [
-            "民國95年底                End of 2006",
-            "無限\n公司\nUnlimited Company\n",
-            "-"
-        ],
-        [
-            "民國95年底                End of 2006",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
-            "-"
-        ],
-        [
-            "民國95年底                End of 2006",
-            "有限\n公司\nLimited Company\n",
-            "3460"
-        ],
-        [
-            "民國95年底                End of 2006",
-            "股份\n有限公司\nCompany Limited by Shares",
-            "1033"
-        ],
-        [
-            "民國95年底                End of 2006",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
-            ""
-        ],
-        [
-            "民國95年底                End of 2006",
-            "",
-            ""
-        ],
-        [
-            "民國95年底                End of 2006",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
-            "4"
-        ],
-        [
-            "民國95年底                End of 2006",
-            "",
-            "-"
-        ],
-        [
-            "民國96年底                End of 2007",
-            "總計\nGrand Total",
-            "4154"
-        ],
-        [
-            "民國96年底                End of 2007",
-            "無限\n公司\nUnlimited Company\n",
-            "-"
-        ],
-        [
-            "民國96年底                End of 2007",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
-            "-"
-        ],
-        [
-            "民國96年底                End of 2007",
-            "有限\n公司\nLimited Company\n",
-            "3227"
-        ],
-        [
-            "民國96年底                End of 2007",
-            "股份\n有限公司\nCompany Limited by Shares",
-            "923"
-        ],
-        [
-            "民國96年底                End of 2007",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
-            ""
-        ],
-        [
-            "民國96年底                End of 2007",
-            "",
-            ""
-        ],
-        [
-            "民國96年底                End of 2007",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
-            "4"
-        ],
-        [
-            "民國96年底                End of 2007",
-            "",
-            "-"
-        ],
-        [
-            "民國97年底                End of 2008",
-            "總計\nGrand Total",
-            "3896"
-        ],
-        [
-            "民國97年底                End of 2008",
-            "無限\n公司\nUnlimited Company\n",
-            "-"
-        ],
-        [
-            "民國97年底                End of 2008",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
-            "-"
-        ],
-        [
-            "民國97年底                End of 2008",
-            "有限\n公司\nLimited Company\n",
-            "3030"
-        ],
-        [
-            "民國97年底                End of 2008",
-            "股份\n有限公司\nCompany Limited by Shares",
-            "861"
-        ],
-        [
-            "民國97年底                End of 2008",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
-            ""
-        ],
-        [
-            "民國97年底                End of 2008",
-            "",
-            ""
-        ],
-        [
-            "民國97年底                End of 2008",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
-            "7"
-        ],
-        [
-            "民國97年底                End of 2008",
-            "",
-            "-"
-        ],
-        [
-            "民國98年底                End of 2009",
-            "總計\nGrand Total",
-            "3857"
-        ],
-        [
-            "民國98年底                End of 2009",
-            "無限\n公司\nUnlimited Company\n",
-            "-"
-        ],
-        [
-            "民國98年底                End of 2009",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
-            "-"
-        ],
-        [
-            "民國98年底                End of 2009",
-            "有限\n公司\nLimited Company\n",
-            "3026"
-        ],
-        [
-            "民國98年底                End of 2009",
-            "股份\n有限公司\nCompany Limited by Shares",
-            "825"
-        ],
-        [
-            "民國98年底                End of 2009",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
-            ""
-        ],
-        [
-            "民國98年底                End of 2009",
-            "",
-            ""
-        ],
-        [
-            "民國98年底                End of 2009",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
-            "7"
-        ],
-        [
-            "民國98年底                End of 2009",
-            "",
-            "-"
-        ],
-        [
-            "民國99年底                End of 2010",
-            "總計\nGrand Total",
-            "3833"
-        ],
-        [
-            "民國99年底                End of 2010",
-            "無限\n公司\nUnlimited Company\n",
-            "-"
-        ],
-        [
-            "民國99年底                End of 2010",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
-            "-"
-        ],
-        [
-            "民國99年底                End of 2010",
-            "有限\n公司\nLimited Company\n",
-            "3031"
-        ],
-        [
-            "民國99年底                End of 2010",
-            "股份\n有限公司\nCompany Limited by Shares",
-            "798"
-        ],
-        [
-            "民國99年底                End of 2010",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
-            ""
-        ],
-        [
-            "民國99年底                End of 2010",
-            "",
-            ""
-        ],
-        [
-            "民國99年底                End of 2010",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
-            "6"
-        ],
-        [
-            "民國99年底                End of 2010",
-            "",
-            "-"
-        ],
-        [
-            "民國100年底                End of 2011",
-            "總計\nGrand Total",
-            "3904"
-        ],
-        [
-            "民國100年底                End of 2011",
-            "無限\n公司\nUnlimited Company\n",
-            "-"
-        ],
-        [
-            "民國100年底                End of 2011",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
-            "-"
-        ],
-        [
-            "民國100年底                End of 2011",
-            "有限\n公司\nLimited Company\n",
-            "3107"
-        ],
-        [
-            "民國100年底                End of 2011",
-            "股份\n有限公司\nCompany Limited by Shares",
-            "791"
-        ],
-        [
-            "民國100年底                End of 2011",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
-            ""
-        ],
-        [
-            "民國100年底                End of 2011",
-            "",
-            ""
-        ],
-        [
-            "民國100年底                End of 2011",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
-            "6"
-        ],
-        [
-            "民國100年底                End of 2011",
-            "",
-            "-"
-        ],
-        [
-            "民國101年底                End of 2012",
-            "總計\nGrand Total",
-            "3985"
-        ],
-        [
-            "民國101年底                End of 2012",
-            "無限\n公司\nUnlimited Company\n",
-            "-"
-        ],
-        [
-            "民國101年底                End of 2012",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
-            "-"
-        ],
-        [
-            "民國101年底                End of 2012",
-            "有限\n公司\nLimited Company\n",
-            "3176"
-        ],
-        [
-            "民國101年底                End of 2012",
-            "股份\n有限公司\nCompany Limited by Shares",
-            "803"
-        ],
-        [
-            "民國101年底                End of 2012",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
-            ""
-        ],
-        [
-            "民國101年底                End of 2012",
-            "",
-            ""
-        ],
-        [
-            "民國101年底                End of 2012",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
-            "6"
-        ],
-        [
-            "民國101年底                End of 2012",
-            "",
-            "-"
-        ],
-        [
-            "",
-            "總計\nGrand Total",
-            ""
-        ],
-        [
-            "",
-            "無限\n公司\nUnlimited Company\n",
-            ""
-        ],
-        [
-            "",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
-            ""
-        ],
-        [
-            "",
-            "有限\n公司\nLimited Company\n",
-            ""
-        ],
-        [
-            "",
-            "股份\n有限公司\nCompany Limited by Shares",
-            ""
-        ],
-        [
-            "",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
-            ""
-        ],
-        [
-            "",
-            "",
-            ""
-        ],
-        [
-            "",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
-            ""
-        ],
-        [
-            "",
-            "",
-            ""
-        ],
-        [
-            "年底別",
-            "總計\nGrand Total",
-            "國內-總計"
-        ],
-        [
-            "年底別",
-            "無限\n公司\nUnlimited Company\n",
-            "無限公司"
-        ],
-        [
-            "年底別",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
-            "兩合公司"
-        ],
-        [
-            "年底別",
-            "有限\n公司\nLimited Company\n",
-            "有限公司"
-        ],
-        [
-            "年底別",
-            "股份\n有限公司\nCompany Limited by Shares",
-            "股份有限公司"
-        ],
-        [
-            "年底別",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
-            "設分公司之外國公司"
-        ],
-        [
-            "年底別",
-            "",
-            "大陸地區在臺許可公司"
-        ],
-        [
-            "年底別",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
-            "國外-設辦事處之外國公司"
-        ],
-        [
-            "年底別",
-            "",
-            "大陸地區-在臺許可辦事處"
-        ],
-        [
             "102",
-            "總計\nGrand Total",
+            "國內-總計",
             "4117"
         ],
         [
             "102",
-            "無限\n公司\nUnlimited Company\n",
-            "-"
+            "無限公司",
+            "0"
         ],
         [
             "102",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
-            "-"
+            "兩合公司",
+            "0"
         ],
         [
             "102",
-            "有限\n公司\nLimited Company\n",
+            "有限公司",
             "3284"
         ],
         [
             "102",
-            "股份\n有限公司\nCompany Limited by Shares",
+            "股份有限公司",
             "827"
         ],
         [
             "102",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
+            "設分公司之外國公司",
             "6"
         ],
         [
             "102",
-            "",
-            "-"
+            "大陸地區在臺許可公司",
+            "0"
         ],
         [
             "102",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
+            "國外-設辦事處之外國公司",
             "6"
         ],
         [
             "102",
-            "",
+            "大陸地區-在臺許可辦事處",
             "1"
         ],
         [
             "103",
-            "總計\nGrand Total",
+            "國內-總計",
             "4222"
         ],
         [
             "103",
-            "無限\n公司\nUnlimited Company\n",
+            "無限公司",
             "0"
         ],
         [
             "103",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
+            "兩合公司",
             "0"
         ],
         [
             "103",
-            "有限\n公司\nLimited Company\n",
+            "有限公司",
             "3362"
         ],
         [
             "103",
-            "股份\n有限公司\nCompany Limited by Shares",
+            "股份有限公司",
             "853"
         ],
         [
             "103",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
+            "設分公司之外國公司",
             "7"
         ],
         [
             "103",
-            "",
+            "大陸地區在臺許可公司",
             "0"
         ],
         [
             "103",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
+            "國外-設辦事處之外國公司",
             "6"
         ],
         [
             "103",
-            "",
-            "-"
+            "大陸地區-在臺許可辦事處",
+            "0"
         ],
         [
             "104",
-            "總計\nGrand Total",
+            "國內-總計",
             "4393"
         ],
         [
             "104",
-            "無限\n公司\nUnlimited Company\n",
-            "-"
+            "無限公司",
+            "0"
         ],
         [
             "104",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
-            "-"
+            "兩合公司",
+            "0"
         ],
         [
             "104",
-            "有限\n公司\nLimited Company\n",
+            "有限公司",
             "3501"
         ],
         [
             "104",
-            "股份\n有限公司\nCompany Limited by Shares",
+            "股份有限公司",
             "885"
         ],
         [
             "104",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
+            "設分公司之外國公司",
             "7"
         ],
         [
             "104",
-            "",
-            "-"
+            "大陸地區在臺許可公司",
+            "0"
         ],
         [
             "104",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
+            "國外-設辦事處之外國公司",
             "7"
         ],
         [
             "104",
-            "",
-            "-"
+            "大陸地區-在臺許可辦事處",
+            "0"
         ],
         [
             "105",
-            "總計\nGrand Total",
+            "國內-總計",
             "4567"
         ],
         [
             "105",
-            "無限\n公司\nUnlimited Company\n",
+            "無限公司",
             "0"
         ],
         [
             "105",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
+            "兩合公司",
             "0"
         ],
         [
             "105",
-            "有限\n公司\nLimited Company\n",
+            "有限公司",
             "3650"
         ],
         [
             "105",
-            "股份\n有限公司\nCompany Limited by Shares",
+            "股份有限公司",
             "909"
         ],
         [
             "105",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
+            "設分公司之外國公司",
             "8"
         ],
         [
             "105",
-            "",
+            "大陸地區在臺許可公司",
             "0"
         ],
         [
             "105",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
+            "國外-設辦事處之外國公司",
             "7"
         ],
         [
             "105",
-            "",
-            "-"
+            "大陸地區-在臺許可辦事處",
+            "0"
         ],
         [
             "106",
-            "總計\nGrand Total",
+            "國內-總計",
             "4734"
         ],
         [
             "106",
-            "無限\n公司\nUnlimited Company\n",
+            "無限公司",
             "0"
         ],
         [
             "106",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
+            "兩合公司",
             "0"
         ],
         [
             "106",
-            "有限\n公司\nLimited Company\n",
+            "有限公司",
             "3807"
         ],
         [
             "106",
-            "股份\n有限公司\nCompany Limited by Shares",
+            "股份有限公司",
             "921"
         ],
         [
             "106",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
+            "設分公司之外國公司",
             "6"
         ],
         [
             "106",
-            "",
+            "大陸地區在臺許可公司",
             "0"
         ],
         [
             "106",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
+            "國外-設辦事處之外國公司",
             "10"
         ],
         [
             "106",
-            "",
+            "大陸地區-在臺許可辦事處",
             "0"
         ],
         [
             "107",
-            "總計\nGrand Total",
+            "國內-總計",
             "4799"
         ],
         [
             "107",
-            "無限\n公司\nUnlimited Company\n",
+            "無限公司",
             "0"
         ],
         [
             "107",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
+            "兩合公司",
             "0"
         ],
         [
             "107",
-            "有限\n公司\nLimited Company\n",
+            "有限公司",
             "3881"
         ],
         [
             "107",
-            "股份\n有限公司\nCompany Limited by Shares",
+            "股份有限公司",
             "913"
         ],
         [
             "107",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
+            "設分公司之外國公司",
             "5"
         ],
         [
             "107",
-            "",
+            "大陸地區在臺許可公司",
             "0"
         ],
         [
             "107",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
+            "國外-設辦事處之外國公司",
             "11"
         ],
         [
             "107",
-            "",
+            "大陸地區-在臺許可辦事處",
             "0"
         ],
         [
             "108",
-            "總計\nGrand Total",
+            "國內-總計",
             "4879"
         ],
         [
             "108",
-            "無限\n公司\nUnlimited Company\n",
+            "無限公司",
             "0"
         ],
         [
             "108",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
+            "兩合公司",
             "0"
         ],
         [
             "108",
-            "有限\n公司\nLimited Company\n",
+            "有限公司",
             "3935"
         ],
         [
             "108",
-            "股份\n有限公司\nCompany Limited by Shares",
+            "股份有限公司",
             "938"
         ],
         [
             "108",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
+            "設分公司之外國公司",
             "6"
         ],
         [
             "108",
-            "",
+            "大陸地區在臺許可公司",
             "0"
         ],
         [
             "108",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
+            "國外-設辦事處之外國公司",
             "9"
         ],
         [
             "108",
-            "",
+            "大陸地區-在臺許可辦事處",
             "0"
         ],
         [
             "109",
-            "總計\nGrand Total",
+            "國內-總計",
             "5004"
         ],
         [
             "109",
-            "無限\n公司\nUnlimited Company\n",
+            "無限公司",
             "0"
         ],
         [
             "109",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
+            "兩合公司",
             "0"
         ],
         [
             "109",
-            "有限\n公司\nLimited Company\n",
+            "有限公司",
             "4028"
         ],
         [
             "109",
-            "股份\n有限公司\nCompany Limited by Shares",
+            "股份有限公司",
             "971"
         ],
         [
             "109",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
+            "設分公司之外國公司",
             "5"
         ],
         [
             "109",
-            "",
+            "大陸地區在臺許可公司",
             "0"
         ],
         [
             "109",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
+            "國外-設辦事處之外國公司",
             "7"
         ],
         [
             "109",
-            "",
+            "大陸地區-在臺許可辦事處",
             "0"
         ],
         [
             "110",
-            "總計\nGrand Total",
+            "國內-總計",
             "5210"
         ],
         [
             "110",
-            "無限\n公司\nUnlimited Company\n",
+            "無限公司",
             "0"
         ],
         [
             "110",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
+            "兩合公司",
             "0"
         ],
         [
             "110",
-            "有限\n公司\nLimited Company\n",
+            "有限公司",
             "4193"
         ],
         [
             "110",
-            "股份\n有限公司\nCompany Limited by Shares",
+            "股份有限公司",
             "1012"
         ],
         [
             "110",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
+            "設分公司之外國公司",
             "5"
         ],
         [
             "110",
-            "",
+            "大陸地區在臺許可公司",
             "0"
         ],
         [
             "110",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
+            "國外-設辦事處之外國公司",
             "9"
         ],
         [
             "110",
-            "",
+            "大陸地區-在臺許可辦事處",
             "0"
         ],
         [
             "111",
-            "總計\nGrand Total",
+            "國內-總計",
             "5418"
         ],
         [
             "111",
-            "無限\n公司\nUnlimited Company\n",
+            "無限公司",
             "0"
         ],
         [
             "111",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
+            "兩合公司",
             "0"
         ],
         [
             "111",
-            "有限\n公司\nLimited Company\n",
+            "有限公司",
             "4340"
         ],
         [
             "111",
-            "股份\n有限公司\nCompany Limited by Shares",
+            "股份有限公司",
             "1073"
         ],
         [
             "111",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
+            "設分公司之外國公司",
             "5"
         ],
         [
             "111",
-            "",
+            "大陸地區在臺許可公司",
             "0"
         ],
         [
             "111",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
+            "國外-設辦事處之外國公司",
             "11"
         ],
         [
             "111",
-            "",
+            "大陸地區-在臺許可辦事處",
             "0"
         ],
         [
             "112",
-            "總計\nGrand Total",
+            "國內-總計",
             "5593"
         ],
         [
             "112",
-            "無限\n公司\nUnlimited Company\n",
+            "無限公司",
             "0"
         ],
         [
             "112",
-            "兩合公司\nUnlimited Company with Limited Liability Shareholders",
+            "兩合公司",
             "0"
         ],
         [
             "112",
-            "有限\n公司\nLimited Company\n",
+            "有限公司",
             "4488"
         ],
         [
             "112",
-            "股份\n有限公司\nCompany Limited by Shares",
+            "股份有限公司",
             "1099"
         ],
         [
             "112",
-            "外國公司\n在臺認許公司\nForeign Company with Recognition",
+            "設分公司之外國公司",
             "6"
         ],
         [
             "112",
-            "",
+            "大陸地區在臺許可公司",
             "0"
         ],
         [
             "112",
-            "外國公司在臺灣設立辦事處\nAgency of\nForeign Company",
+            "國外-設辦事處之外國公司",
             "12"
         ],
         [
             "112",
-            "",
+            "大陸地區-在臺許可辦事處",
             "0"
         ]
     ],
